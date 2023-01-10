@@ -14,6 +14,6 @@ while len(name) == 0:
 # NOTE: You can also conditional operators in a while loop
 # while not name:
 # 	name = input("Enter your name: ")
-# It is the same on the example above
+# It is the same in the example above
 
 print("Hello " + name)  
