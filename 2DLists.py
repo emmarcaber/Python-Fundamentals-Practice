@@ -21,6 +21,6 @@ print(foods[0][0])
 # show the third element of dinner which is "hotdog"
 print(foods[1][2])
 
-# this is an IndexErro
+# this is an IndexError
 # since there are only two elements inside the desserts list
 # print(foods[2][2])
