@@ -1,3 +1,5 @@
+# CHAPTER 4
+
 name = "Emmar"
 
 print(len(name)) # len() -> length of the string

@@ -1,3 +1,4 @@
+# CHAPTER 2
 # Variable = a container for a value. Behaves as the value that it contains 
 
 # string data type is a series of characters

@@ -1,3 +1,5 @@
+# CHAPTER 7
+
 # Import the math library
 import math
 

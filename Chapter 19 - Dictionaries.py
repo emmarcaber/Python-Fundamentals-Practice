@@ -1,3 +1,4 @@
+# CHAPTER 19
 # dictionary = a changeable, unordered collection of unique key:value pairs
 #              Fast because they use hashing, allow us to access value quickly
 

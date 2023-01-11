@@ -1,3 +1,5 @@
+# CHAPTER 6
+
 # asks the user for his/her name and stores it in the name variable
 # with a string data type
 name = input("What is your name? ")

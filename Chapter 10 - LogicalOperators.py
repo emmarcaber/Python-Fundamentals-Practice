@@ -1,3 +1,4 @@
+# CHAPTER 10
 # logical operatores (and, or, not)
 # = are used to check if two or more conditional statements
 #   true

@@ -1,3 +1,4 @@
+# CHAPTER 15
 # list = used to store multiple items in a single variable
 
 foods = ["pizza", "hamburger", "hotdog", "spaggheti", "pudding"]
