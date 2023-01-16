@@ -7,7 +7,7 @@
 # E = Enclosing
 # G = Global
 # B = Built-in
-# Order of Execution
+# Scope of variables in which they are executed orderly
 
 name = "Bro" 			# global scope(available inside & outside functions)
 
