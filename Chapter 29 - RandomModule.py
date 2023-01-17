@@ -1,3 +1,4 @@
+# Import the Random module
 import random
 
 x = random.randint(1, 6) 		# generate a random number from 1 to 6
@@ -8,7 +9,7 @@ z = random.choice(myList) 	# generate a random choice from the list
 
 cards = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, "J", "Q", "K", "A"]
 
-random.shuffle(cards)		# shuffle the cards randomly
+random.shuffle(cards)		    # shuffle the cards randomly
 
 print(x)
 print(y)
