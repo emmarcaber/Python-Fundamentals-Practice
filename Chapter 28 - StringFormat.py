@@ -17,9 +17,9 @@ number = 3.14159
 number2 = 1000
 print("The number pi is {:.2f}".format(number)) 	# formating floating values to display
 print("The number pi is {:,}".format(number2)) 		# comma for every three digits
-print("The number pi is {:b}".format(number2))	# displaying in binary
-print("The number pi is {:o}".format(number2)) 	# displaying in octal
-print("The number pi is {:X}".format(number2)) 	# displaying in hexadecimal
+print("The number pi is {:b}".format(number2))	  # displaying in binary
+print("The number pi is {:o}".format(number2)) 	  # displaying in octal
+print("The number pi is {:X}".format(number2)) 	  # displaying in hexadecimal
 print("The number pi is {:E}".format(number2))		# displaying in scientific notation 
 
 
