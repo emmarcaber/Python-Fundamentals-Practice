@@ -42,11 +42,17 @@ def display_score(correct_guesses, guesses):
         print(i, end=" ")
     print()
 
-    print(f"Your score is: {int(correct_guesses/len(questions) * 100)}")
+    print(f"Your score is: {int(correct_guesses/len(questions) * 100)}%")
     
 # -------------------------------
 def play_again():
-    pass
+    print()
+    response = input("Do you want to play again? (yes/no)? ").lower()
+
+    if response == "yes":
+        return True
+    else:
+        return False
 
 questions = {
     "Who created Python? " : "A",
@@ -63,3 +69,8 @@ options = [
 ]
 
 new_game()
+
+while play_again():
+    new_game()
+
+print("Byeeeeee!")
