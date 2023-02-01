@@ -9,3 +9,4 @@ import shutil
 shutil.copyfile('test.txt', 'copy.txt')
 
 # shutil.copyfile(source, destination)
+# NOTE: The destination can a path to a file
