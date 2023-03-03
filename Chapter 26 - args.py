@@ -9,4 +9,4 @@ def add(*args):
 		sum += i
 	return sum
 
-print(add(1,2,3, 4, 5, 6))
+print(add(1, 2, 3, 4, 5, 6))
