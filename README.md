@@ -15,4 +15,7 @@ I created this repository to keep track of what I already know in Python by reco
 
   ```
     py "filename"
+
+    # py "Chapter 39 - QuizGame.py"
   ```
+
