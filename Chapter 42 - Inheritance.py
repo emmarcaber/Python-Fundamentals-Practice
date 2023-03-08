@@ -1,5 +1,8 @@
+# INHERITANCE - classes can become parents
+#               and have multiple children
+
 # NOTE: Inheritance allows developers
-#       to not copy and paste code because
+#       to not copy and paste code multiple times because
 #       of changing multiple classes that 
 #       can be clustered or grouped
 
