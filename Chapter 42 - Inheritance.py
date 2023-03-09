@@ -1,3 +1,5 @@
+# CHAPTER 42
+
 # INHERITANCE - classes can become parents
 #               and have multiple children
 

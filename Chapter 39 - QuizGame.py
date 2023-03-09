@@ -1,3 +1,5 @@
+# CHAPTER 39
+# QuizGame
 
 # -------------------------------
 def new_game():

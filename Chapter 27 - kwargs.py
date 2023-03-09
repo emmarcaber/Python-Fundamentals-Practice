@@ -1,3 +1,4 @@
+# CHAPTER 27
 # **kwargs =	parameter that will pack all arguments into a dictionary
 #		useful so that a function can accept a varying aount of keyword arguments
 
