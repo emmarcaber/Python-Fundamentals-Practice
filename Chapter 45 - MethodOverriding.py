@@ -1,5 +1,6 @@
 # CHAPTER 45
-# Method Overriding
+# Method Overriding = The ability of subclass to have a specific method implementation from
+#                     already existing method implementation from the superclass
 
 class Animal:
 
