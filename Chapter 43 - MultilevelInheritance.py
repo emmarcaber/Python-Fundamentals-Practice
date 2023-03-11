@@ -1,5 +1,6 @@
 # CHAPTER 43
 # Multilevel Inheritance = when a derived (child) class inherits another derived (child) class 
+# Imagine a family tree which inherits the characteristics from grandfather to the grandson
 
 # Super Parent Class
 class Organism:
