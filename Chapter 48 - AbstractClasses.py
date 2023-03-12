@@ -6,4 +6,4 @@
 
 # Abstract Class = a class which contains one or more abstract methods
 # Abstract Method = a method that has a declaration but does not have an implementation
-
+# THINK OF ABSTRACT CLASS AS A TEMPLATE
