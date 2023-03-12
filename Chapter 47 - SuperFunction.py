@@ -4,7 +4,7 @@
 
 class Rectangle:
 
-    # Constructor class or __init__ method in Python
+    # Constructor method or __init__ method in Python
     def __init__(self, length, width):
         self.length = length
         self.width = width
