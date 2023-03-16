@@ -33,3 +33,26 @@ hello(loud)
 #       text = quiet("Hello")
 # now, print the text
 hello(quiet)
+
+
+
+# Part 2 Demonstration
+# Functions returns a function
+
+def divisor(x):
+    def dividend(y):
+        return y / x
+    return dividend
+
+divide = divisor(2)
+# How this prints to 5.0?
+# First, the divisor(2)
+# returns the memory address of divisor and
+# x already equals to 2, then it returns the dividend
+# waiting for y
+
+# Now, after another call
+# The y is equal to 10
+# So, the dividend function inside function will be called
+# Returning 5.0 and it will be printed
+print(divide(10))
