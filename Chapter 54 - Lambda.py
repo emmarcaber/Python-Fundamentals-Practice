@@ -48,5 +48,4 @@ print(full_name("Emmar", "Caber"))
 
 # Shortcut Method using Lambda Function
 age_check = lambda age : True if age >= 18 else False
-
 print(age_check(18))
