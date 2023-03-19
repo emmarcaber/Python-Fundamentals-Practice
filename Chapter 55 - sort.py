@@ -50,3 +50,8 @@ print()
 # Sort with Remarks but descending
 sorted_with_remarks_descending = sorted(students_iterables, key=lambda remarks: remarks[1], reverse=True)
 print(*sorted_with_remarks_descending, sep="\n")
+
+
+# ANOTHER NOTE: 
+# When you sort with sort() method, no need to store it with variable. 
+# Whereas, for sorted() function you need to store the result in a variable
