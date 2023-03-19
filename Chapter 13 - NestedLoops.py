@@ -14,7 +14,7 @@ for i in range(rows):
 	print()
 
 # another common example for nested loops,
-# is the display some asterisks like this:
+# is to display some asterisks like this:
 #
 # 	*
 # 	* *
