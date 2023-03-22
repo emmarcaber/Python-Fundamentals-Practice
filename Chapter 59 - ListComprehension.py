@@ -5,6 +5,25 @@
 #                      list = [expression for item in iterable if conditional]
 #                      list = [expression if/else for item in iterable]
 
+
+# PART 1 - DEMONSTRATING LIST COMPREHENSION
+#          WITH FOR LOOP to create a new list
+
+# Looping method
+squares = []                    # create an empty list
+for i in range(1, 11):          # create a for loop
+    squares.append(i * i)       # define what each loop iteration should do
+print(squares)
+
+# Now, with list comprehension
+squares = [i * i for i in range(1, 11)]
+print(squares)
+
+
+
+# PART 2 - COMBINATION OF LIST COMPREHENSION WItH CONDITIONS
+
+# list to filter with conditions
 students = [100, 90, 80, 70, 60, 50, 40, 30, 20, 10]
 
 # With list and filter
