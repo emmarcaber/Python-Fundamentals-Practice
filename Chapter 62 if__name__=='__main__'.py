@@ -8,3 +8,10 @@
 # Python interpreter sets "special variables", one of which is __name__
 # then Python will execute the code and found within __main__
 
+import module_two
+
+module_two.hello()
+
+if __name__ == '__main__':
+    print(__name__)
+    print(module_two.__name__)
