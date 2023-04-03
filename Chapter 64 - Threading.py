@@ -54,4 +54,4 @@ study_thread.start()
 # and the main thread is not already in charge of the other threads
 print(threading.active_count())
 print(threading.enumerate())
-print(time.perf_counter())
+print(time.process_time())  # amount of seconds take with main thread to finish
